@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Siddhi Agarwal</h1>
 <h3 align="center">Learning new things everyday!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agasiddhi&label=Profile%20views&color=0e75b6&style=flat" alt="agasiddhi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agaSiddhi&label=Profile%20views&color=0e75b6&style=flat" alt="agasiddhi" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
